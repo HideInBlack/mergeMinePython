@@ -1,0 +1,17 @@
+# .gitignore for notebook
+.ipynb_checkpoints/
+__pycache__/
+
+# backup
+backup/
+
+# codebert
+codebert/
+
+# joern
+joern/
+
+# ignore input/output/print
+json/
+output/
+print/
